@@ -1,4 +1,4 @@
-# CDM324 Doppler Radar Module & P10 LED Matrix
+# CDM324 Doppler Radar Module & P10 LED Matrix (BETA BRANCH)
 
 ## What's this?
 
